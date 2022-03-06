@@ -1,3 +1,9 @@
+# Triangle Intro
+
+Trianle is a react code wrriten in order to use triangles and boxes to use react state and perform the function of button in changing state of an element property
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
