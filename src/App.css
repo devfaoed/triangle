@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background: blueviolet;
+    height: 40px;
+    color: #fff;
+    padding: 25px;
+    font-weight: bold;
+    margin: 0 0 30px 0;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    display: inline-block;
+    margin-right: 4px;
+}
